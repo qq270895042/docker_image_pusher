@@ -3,7 +3,7 @@ name: Docker
 on:
   workflow_dispatch:
   push:
-分支: [ main ]
+    分支: [ main ]
 
 # 每月5、10、15、20、25、30号执行更新
   schedule:
