@@ -1,4 +1,5 @@
-easynode:latest
+easynode
+surveyking
 
 
 
