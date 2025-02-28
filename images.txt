@@ -1,4 +1,3 @@
-easynode
 surveyking
 
 
